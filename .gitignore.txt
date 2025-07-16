@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Output folders
+outputs/models/
+outputs/plots/
+
+# OS files
+.DS_Store
+Thumbs.db
